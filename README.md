@@ -12,7 +12,7 @@ NOTE : While running the project file in jupyter notebook restart the kernel and
 4. Feature Scaling & Standardization
 5. Model Training
 
-# The dataset is trained using three regression models
+# The dataset is trained using following regression models
 1.Linear Regression   
 2.Lasso Regression     
 3.Ridge Regression      
