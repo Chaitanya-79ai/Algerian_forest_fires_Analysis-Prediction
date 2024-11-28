@@ -1,0 +1,2 @@
+# Algerian_forest_fires_Analysis-Prediction
+Exploratory Data Analysis and Prediction of Algerian_forest_fires
