@@ -16,7 +16,7 @@
 5. Model Training
 
 # The dataset is trained using three regression models
-1.Linear Regression
-2.Lasso Regression
-3.Ridge Regression
-4.ElasticNet Regression
+1.Linear Regression   
+2.Lasso Regression     
+3.Ridge Regression      
+4.ElasticNet Regression  
